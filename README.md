@@ -35,6 +35,8 @@ Missing Tool? -> Open an Issue or open a pull request.
 | [draw.io Electrical Engineering](https://github.com/NicklasVraa/Draw-io-ECE/tree/master) | Drawing electrical engineering and computer-science related diagrams, such as circuits and control-architectures in draw.io. | <ul> <li> <a href="https://github.com/NicklasVraa/Draw-io-ECE/tree/master">GitHub</a></li> </ul> | |
 | [Inkscape Circuit Symbols (Inkscape Extension)](https://github.com/fsmMLK/inkscapeCircuitSymbols) | Circuit Symbols as Inkscape extension | <ul><li> <a href="https://github.com/fsmMLK/inkscapeCircuitSymbols">GitHub</a></li> </ul> |![](Images/Inkscape_Circuit_Symbols.png)|
 | [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) | Electrical symbol library for the vector graphics program Inkscape. | <ul><li> <a href="https://github.com/upb-lea/Inkscape_electric_Symbols">GitHub</a></li> </ul> |![](Images/Inkscape_symbols.png)|
+| [Scientific Paper Figures: Inkscape, Python, Matplotlib, and PyVista](https://github.com/otvam/inkscape_python_figures) | Open-Source Workflow for Scientific Paper Figures: Inkscape, Python, Matplotlib, and PyVista | <ul><li> <a href="https://github.com/otvam/inkscape_python_figures">GitHub</a></li> </ul> |![](Images/Inkscape_symbols.png)|
+
 
 ## Magnetics
 | Name | Description | Link | Screenshot |
